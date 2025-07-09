@@ -39,6 +39,7 @@ my-learning-repo/
 
 
 ```
+java
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -51,12 +52,17 @@ public class HelloWorld {
 ```
 
 ## 🐍 PYTHON：沒分號但有陷阱
+```
+python
 print("IndentationError: unexpected existential dread")
+```
 
 ## 💾 SQL：文字遊戲大師
+```
+SQL
 SELECT 'i hate UPPERCASE' AS my_feelings
 WHERE 'i hate UPPERCASE' = LOWER('I HATE UPPERCASE');
-
+```
 ## 📝 筆記紀錄
 在 notes/ 你可以找到：
 weekly-log.md：每週我學了什麼，以及學了又忘了什麼
