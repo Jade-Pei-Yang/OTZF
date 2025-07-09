@@ -37,8 +37,8 @@ my-learning-repo/
 
 ## ☕ JAVA：型別強迫症天堂
 
-'''java
 
+```
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -48,6 +48,7 @@ public class HelloWorld {
     } 
     
 }
+```
 
 ## 🐍 PYTHON：沒分號但有陷阱
 print("IndentationError: unexpected existential dread")
